@@ -1,6 +1,6 @@
 # Descrição de algumas funções importantes
 
-### Manipulação do banco de dados
+### 1. Manipulação do banco de dados
 
 - **createUser(userID)** -> Adiciona um novo usuário ao banco de dados;
 - **getUser(userID)** -> Retorna os dados de um usuário cadastrado no banco de dados a partir do seu ID;
