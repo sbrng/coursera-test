@@ -1,4 +1,4 @@
-# Algumas funções importantes
+# Descrição de algumas funções importantes
 
 ### Manipulação do banco de dados
 
