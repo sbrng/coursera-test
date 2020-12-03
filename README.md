@@ -22,9 +22,5 @@ Salva no banco o status de envio de um agendamento (se realmente foi enviado ou 
 - **checkWillUserWithHuman(userId)** -> Verifica se um usuário precisa ser encaminhado para um canal com humanos;
 - **isUserChattingWithHuman(userID)** -> Verifica se um usuário está se comunicando com um humano;
 - **setUserChattingWithHuman(userID)** -> Encaminha um usuário para um canal que possui um humano;
-- **removeWillChatWithHuman(userId)** -> Remove um usuário de um canal que possui um humano;
+- **removeWillChatWithHuman(userId)** -> Remove um usuário de um canal que possui um humano **OU** Remove o registro de que o usuário precisa ser encaminhado para um canal com humanos;
 - **stopChattingWithHuman(channelId)** -> Remove um humano de um canal;
-- **** ->
-- **** ->
-- **** ->
-- **** ->
